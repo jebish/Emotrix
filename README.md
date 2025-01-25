@@ -43,7 +43,3 @@ The second goal is to create a model that can generate synthetic conversation wh
 -  Use classification_tuning.ipynb to fine-tune the saved LLaMA 3.2 3B 4-bit instruct model for classification and save the adapters
 -  Run api.ipynb or api.py to create a backend/API
 -  Run command -streamlit run app.py to start the streamlit session and chat with the bot
-
-# Results
-## Metrics Used
-## Evaluation Results

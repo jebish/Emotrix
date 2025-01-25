@@ -1,0 +1,1 @@
+This folder contains the logistic regression, support vector machine, random forest and xgboost notebooks for training and testing on dataset.
